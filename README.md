@@ -4,7 +4,7 @@ A frontend browser tab simulation project built using **HTML, CSS, and Vanilla J
 This project replicates core browser tab behavior such as creating tabs, switching between them, and loading URLs inside an iframe.
 
 ## Live Demo
-https://your-username.github.io/browser-tabs-project/
+https://harshithan1706nh.github.io/browser-tab-mockup/
 
 
 
